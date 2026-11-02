@@ -12,6 +12,7 @@ dependencies = [
     "langchain>=1.4.7",
     "langgraph>=1.2.19",
     "langsmith>=0.14.17",
+    "python-dotenv>=1.2.4",
 ]
 
 [project.scripts]
